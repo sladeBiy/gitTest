@@ -1,4 +1,2 @@
-Git is a version control system.
-Git is free software.
-add new line
-add new two line
+hello
+welcome to git
